@@ -55,7 +55,7 @@
         "symfony/doctrine-bridge": "To use ProcessForm argument resolver."
     },
     "autoload": {
-        "psr-4": { "Wizzaq\\RestBundle\\": "" }
+        "psr-4": { "Wizzaq\\RestBundle\\": "src/" }
     },
     "autoload-dev": {
         "psr-4": { "Wizzaq\\RestBundle\\Tests\\": "tests/" }
